@@ -1,4 +1,4 @@
-- 👋 I’m Mitchell Lin, a rising junior studying Computer Science at USC Viterbi School of Engineering. 
+- I’m Mitchell Lin, a rising junior studying Computer Science at USC Viterbi School of Engineering. 
 - I’m interested in basketball, film, analytics, and software development.
 - I’m currently learning C++, Python, SQL, and JavaScript.
 - I’m looking to collaborate on really any project that piques enough of my interest.
