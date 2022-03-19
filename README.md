@@ -1,7 +1,7 @@
 - I am Mitchell Lin, a junior studying Computer Science at USC Viterbi School of Engineering. 
 - I am interested in performance and sleep science, music, basketball, film, philosophy, software engineering, artificial intelligence, and blockchain.
-- I’m currently learning C++, Python, SQL, Java, and web development.
-- I’m looking to collaborate on any project that piques enough of my interest.
+- I am currently learning C++, Python, SQL, Java, and web development.
+- I am looking to collaborate on any project that piques enough of my interest.
 - Email me at mtlin@usc.edu or hit me up on LinkedIn (in/mitchelllin17) to connect.
 
 <!---
