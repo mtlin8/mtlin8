@@ -1,8 +1,7 @@
-- I am Mitchell Lin, a junior studying Computer Science at USC Viterbi School of Engineering. 
-- I am interested in performance and sleep science, music, basketball, film, philosophy, software engineering, artificial intelligence, and blockchain.
-- I am currently learning C++, Python, SQL, Java, and web development.
-- I am looking to collaborate on any project that piques enough of my interest.
-- Email me at mtlin@usc.edu or hit me up on LinkedIn (in/mitchelllin17) to connect.
+- I am Mitchell Lin, a fourth-year computer science student at University of Southern California. 
+- I am interested in product design, software engineering, app development, anything web3, organization, and travel.
+- I am looking to collaborate on projects that can bring people together, save the Earth, or save people's time and energy.
+- Email me at mtlin@usc.edu or message me on LinkedIn (https://www.linkedin.com/in/mtlin8/) to connect.
 
 <!---
 mtlin8/mtlin8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
